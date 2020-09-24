@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: People
+  url: /people/
+
+- title: Publications
+  url: /publications/
+
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/

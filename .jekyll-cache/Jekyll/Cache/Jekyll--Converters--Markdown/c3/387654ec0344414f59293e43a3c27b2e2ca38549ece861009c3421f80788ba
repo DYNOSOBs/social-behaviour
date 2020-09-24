@@ -1,0 +1,32 @@
+I"£<p><strong>Current</strong></p>
+<div class="tiles">
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/current/Hilbe/" title="Christian Hilbe" class="post-teaser"><img src="http://localhost:4000/images/Hilbe.jpg" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2020-09-22" itemprop="datePublished">September 22, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/current/Hilbe/">Christian Hilbe</a></h2>
+  <p class="post-excerpt" itemprop="description">Group Leader</p>
+</article><!-- /.tile -->
+
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/current/Glynatsi/" title="Nikoleta E. Glynatsi" class="post-teaser"><img src="http://localhost:4000/images/Glynatsi.jpg" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2020-09-22" itemprop="datePublished">September 22, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/current/Glynatsi/">Nikoleta E. Glynatsi</a></h2>
+  <p class="post-excerpt" itemprop="description">PostDoc</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+
+<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+
+<p><strong>Past</strong></p>
+<div class="tiles">
+
+</div>
+<!-- /.tiles -->
+:ET

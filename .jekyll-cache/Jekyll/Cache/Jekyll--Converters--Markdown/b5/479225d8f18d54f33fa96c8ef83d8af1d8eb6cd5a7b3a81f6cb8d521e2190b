@@ -1,0 +1,14 @@
+I"<div class="tiles">
+
+  <article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/articles/Glynatsi/" title="Sample Post Style Guide" class="post-teaser"><img src="http://localhost:4000/images/bio.png" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-09-22" itemprop="datePublished">September 22, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/articles/Glynatsi/">Sample Post Style Guide</a></h2>
+  <p class="post-excerpt" itemprop="description">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET
