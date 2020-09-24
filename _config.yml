@@ -5,7 +5,7 @@ description: "A research group at the Max Planck for Evolutionary Biology."
 logo: bio.png
 teaser: bio.png
 locale: en
-url: "https://nikoleta-v3.github.io/social-mpg-de/"
+url: "https://nikoleta-v3.github.io/social-mpg-de"
 feed:
   path: atom.xml
 
