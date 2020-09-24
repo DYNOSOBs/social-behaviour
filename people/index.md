@@ -8,18 +8,9 @@ image:
   teaser:
 ---
 
-**Current**
 <div class="tiles">
+<h2 class="post-title">Current</h2>
 {% for post in site.categories.current reversed%}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-**Past**
-<div class="tiles">
-{% for post in site.categories.past reversed%}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
