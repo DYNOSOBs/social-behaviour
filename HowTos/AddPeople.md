@@ -1,11 +1,9 @@
 # Add People
 
 In order to add your personal profile you must include a new file (`.md`) file
-under `_posts/people/`.
+in `_posts/people/`.
 
-Firstly before you make any changes you need to branch
-(do not make changes to `master`).
-
+Firstly you need to branch (do not make changes to `master`).
 To branch use the commands `git branch <name>` and `git checkout <name>`.
 
 Name the branch as `add-people-your_last_name`. For example:
@@ -15,7 +13,7 @@ $ git branch add-people-glynatsi
 $ git checkout add-people-glynatsi
 ```
 
-Once you have branched create a new `.md` file under `_posts/people/`. The name
+Once you have branched create a new `.md` file in `_posts/people/`. The name
 of the file should follow the format `year-month-day-your_last_name.md` where:
 
 - `year` is the year you joined the group
@@ -74,11 +72,26 @@ image:
 The information you want to include.
 
 The `.md` file stands for markdown. In this file you can use both markdown and
-html.
+HTML syntax.
 
 **Footer**
 
-Include the following lines at the end of your file, where you need to alter:
+Include the following lines at the end of your file:
+
+
+```html
+<div id="socialMedia" style="text-align:center">
+    <a href="<your_email>" title="Email"><i style="font-size:24px" class="fa fa-envelope"></i></a>
+    <a href="<link_to_github_account>" title="GitHub"><i style="font-size:24px" class="fa fa-github"></i></a>
+    <a href="<link_to_twitter>" title="Twitter"><i style="font-size:24px" class="fa fa-twitter"></i></a>
+    <a href="<link_to_personal_profile>" title="Webpage"><i style="font-size:24px" class="fa fa-home"></i></a>
+    <a href="<link_to_linked_in>" title="LinkedIn"><i style="font-size:24px" class="fa fa-linkedin"></i></a>
+</div>
+
+<img src="../../images/<your_picture>" class="center">
+```
+
+You need to alter:
 
 - <your_email>
 - <link_to_github_account>
@@ -101,3 +114,7 @@ line.
 
 <img src="../../images/<your_picture>" class="center">
 ```
+
+
+Once you have added your personal `md` file check the locally hosted website to
+view the changes.
