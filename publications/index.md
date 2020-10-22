@@ -1,16 +1,16 @@
 ---
 layout: article
-title: "Publications"
+title:
 image:
   feature:
   teaser:
   thumb:
 ---
 
-**Journal articles**
+<h5>Journal article</h5>
 
-- 
+- Using a theory of mind
 
-**Preprints**
+<h5>Preprints</h5>
 
 - 

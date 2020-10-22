@@ -1,6 +1,6 @@
 ---
-layout: article
-title: "About"
+layout: home
+title:
 image:
   feature:
   teaser:
@@ -9,7 +9,6 @@ share: false
 ads: false
 ---
 
-**Research group "Dynamics of Social Behavior"**
 
 Max Planck Institute for Evolutionary Biology \
 Department of Evolutionary Theory \

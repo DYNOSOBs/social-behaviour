@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Post"
+title:
 modified:
 tags: []
 image:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title:
 modified:
 tags: []
 image:
@@ -9,7 +9,7 @@ image:
 ---
 
 <div class="tiles">
-<h2 class="post-title">Current</h2>
+<h5 class="post-title">Current</h5>
 {% for post in site.categories.current reversed%}
   {% include post-grid.html %}
 {% endfor %}
