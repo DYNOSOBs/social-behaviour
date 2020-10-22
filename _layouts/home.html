@@ -31,14 +31,14 @@
 
   <body>
     {% include header.html %}
-    {% include navigation-sliding.html %}
+    <!-- {% include navigation-sliding.html %} -->
 
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{
     page.image.feature }}); background-size: 100% 50%">
       <div class="wrap page-lead-content">
         <h1>Dynamics of Social Behavior</h1>
-        <a href="{{ site.url }}/publications/" class="btn-inverse">Publications</a>
+        <h2>Max Planck for Evolutionary Biology</h2>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
