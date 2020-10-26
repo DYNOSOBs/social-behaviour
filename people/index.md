@@ -11,6 +11,6 @@ image:
 <div class="tiles">
 <h5 class="post-title">Current</h5>
 {% for post in site.categories.current reversed%}
-  {% include post-grid.html %}
+  {% include people-grib.html %}
 {% endfor %}
 </div><!-- /.tiles -->
