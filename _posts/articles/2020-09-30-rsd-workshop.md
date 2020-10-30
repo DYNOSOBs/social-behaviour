@@ -44,4 +44,4 @@ Nevertheless, our group learnt a lot in those two days, we had fun and consumed
 an appropriate amount of sugar.
 
 
-<img src="../../images/rsd-workshop-image.jpeg" class="center" style="width:500px;height:400px;">
+<img src="../../images/rsd-workshop-donut.jpg" class="center" style="width:600px;height:500px;">
