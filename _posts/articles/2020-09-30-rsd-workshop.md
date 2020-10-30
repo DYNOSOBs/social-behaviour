@@ -35,7 +35,7 @@ The workshop itself introduced a number of concepts such as:
 - Version control;
 - Use of GitHub.
 
-In the future, our groups aims to incorporate these concepts into our
+In the future, our group aims to incorporate these concepts into our
 workflows, and to (hopefully) create a group GitHub account where the source code
 for all our published papers will be available to use and contribute to(as
 suggested by <a href="https://twitter.com/jgreiter">Johannes Reiter</a>).
