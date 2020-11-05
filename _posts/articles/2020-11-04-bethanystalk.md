@@ -17,4 +17,4 @@ For our group seminar last week, we organised a talk led by <a href="https://www
 
 Check out authors' last paper <a href="https://www.nature.com/articles/s41562-020-00950-4">here</a>!
 
-<img src="../../images/bethany_talk.jpg" class="center" style="width:600px;height:500px;">
+<img src="../../images/bethany_talk.jpg" class="center">
