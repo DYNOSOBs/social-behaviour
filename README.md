@@ -1,7 +1,7 @@
 # Personal Website for the Group Dynamics of Social Behavior
 
 Welcome to the source code for our website:
-https://nikoleta-v3.github.io/social-behaviour//.
+http://web.evolbio.mpg.de/social-behaviour/.
 
 # How To(s)
 
