@@ -37,7 +37,7 @@ The workshop itself introduced a number of concepts such as:
 
 In the future, our group aims to incorporate these concepts into our
 workflows, and to (hopefully) create a group GitHub account where the source code
-for all our published papers will be available to use and contribute to(as
+for all our published papers will be available to use and contribute to (as
 suggested by <a href="https://twitter.com/jgreiter">Johannes Reiter</a>).
 
 Nevertheless, our group learnt a lot in those two days, we had fun and consumed
