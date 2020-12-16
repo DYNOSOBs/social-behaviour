@@ -17,6 +17,9 @@ experiments.
 
 <h5>News</h5>
 
+- On December 09, 2020 we had an invited speaker for our group seminar, Dr.
+Julian Garcia. Read our blog post for more details: <a href="articles/julianstalk/">Talk by Dr. Julian Garcia on indirect reciprocity</a>.
+
 - On November 04, 2020 we had an invited speaker for our group seminar, Dr.
 Bethany Burum. Read our blog post for more details: <a href="articles/bethanystalk/">Talk by Bethany Burum</a>.
 
