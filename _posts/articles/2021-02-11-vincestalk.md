@@ -28,4 +28,4 @@ Dr. Knight’s talk was very engaging and clear, and we particularly enjoyed the
 Thanks so much! 
 </p>
 
-<img src="../../images/Vince_talk_picture.png" class="center">
+<img src="../../images/Vince_talk_picture.png" class="center" style="width:800px">
