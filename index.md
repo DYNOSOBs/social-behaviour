@@ -17,6 +17,8 @@ experiments.
 
 <h5>News</h5>
 
+- On January 21, 2021, Dr. Vince Knight gave a fantastic talk on reproducibility in cooperation research. Read our blog post for more details: <a href="articles/vincestalk/">Talk by Vince Knight on Reproducibility of Research in Cooperation</a>.
+
 - On December 09, 2020 we had an invited speaker for our group seminar, Dr.
 Julian Garcia. Read our blog post for more details: <a href="articles/julianstalk/">Talk by Dr. Julian Garcia on indirect reciprocity</a>.
 
