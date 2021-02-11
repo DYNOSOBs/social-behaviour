@@ -12,7 +12,7 @@ image:
 
 <p align="justify">
 
-On Decmeber 9, <a href="https://garciajulian.com/">Dr. Julian Garcia</a> from
+On December 9, <a href="https://garciajulian.com/">Dr. Julian Garcia</a> from
 the Faculty of Information Technology, Monash University, Australia gave a
 virtual presentation in our weekly group meeting. The event was open to everyone
 at the institute.
