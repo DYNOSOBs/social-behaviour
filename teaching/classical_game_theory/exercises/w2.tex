@@ -1,0 +1,101 @@
+\documentclass[10pt]{article}
+
+% Manage page layout
+\usepackage[margin=2.5cm, includefoot, footskip=30pt]{geometry}
+\pagestyle{plain}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
+
+\usepackage{blkarray}
+\usepackage{multirow}
+\usepackage{amsmath}
+
+\title{\textbf{Week 2.} Static games with complete information I: Elimination of dominated strategies}
+\date{}
+
+\begin{document}
+\maketitle
+\vspace{-1cm}
+
+\section*{Exercise 1: Cournot Duopoly}
+There are two firms that produce a given good for a given market. Each firm needs
+to decide how much of the good they want to produce (which can be a continuous quantity between 0 and \(\inf\)).
+
+Producing one unit of the good comes at a cost of \(c > 0\). The price for which the
+good can be sold is a decreasing function of the total amount of good produced,
+\(p = a - b x\), where \(x\) is the total amount of the good produced by the
+two firms.
+
+\textbf{Translate this into a game, who are the players, what are the actions, what are the payoffs?}
+
+\underline{\textbf{Bonus question:}} Are there any dominated actions?
+
+
+\section*{Exercise 2: Symmetric games}
+In the lecture we have defined for a 2-players game with infinitely many actions
+what it means to be symmetric. Basically, it means that the players positions do not
+mean anything. You could switch the roles of the player 1 and 2, and the payoffs would
+remain the same.
+
+\textbf{Can you come up with a definition of what it means that a \(n-\)players game is symmetric?}
+
+[Hint: For this it might be useful to use the concept of a permutation. A permutation
+is a bijective map \(\tau: \{1, \dots, n\} \rightarrow \{1, \dots, n\}\). Any re-ordering
+of players can thus be described as a permutation.]
+
+
+\section{Exercise 3: Dominated strategies}
+\textbf{Show that in the following game the pure strategy \(M\) is dominated.}
+
+\[
+\begin{blockarray}{ccc}
+& L & R \\
+\begin{block}{c(cc)}
+    U & (3, 0) & (0, 0) \\
+    M & (1, 1) & (1, 1) \\
+    D & (0, 0) & (3, 0) \\
+\end{block}
+\end{blockarray}
+\]
+
+\textbf{Show that it is no longer dominated if all ``1''s are changed to ``2''s.}
+
+\section*{Exercise 4: Iterated elimination of dominated strategies, Example I}
+
+\textbf{Construct a 2-player game such that:}
+
+\begin{enumerate}
+    \item Both players have 3 actions.
+    \item The game cannot be solved by elimination of dominated strategies.
+    \item The game can be solved by elimination of dominated strategies.
+\end{enumerate}
+
+\section*{Exercise 5: Iterated elimination of dominated strategies, Example II}
+Consider the following 3-players game. Here the first player chooses a row,
+the second player chooses a column, and the third player chooses a matrix.
+
+\textbf{Can you solve this game using iterated elimination of strategies?}
+
+\begin{equation*}
+\begin{blockarray}{ccc}
+    & \BAmulticolumn{2}{c}{\text{Matrix } 1} \\ [1em]
+    & \text{Col } 1 & \text{Col } 2 \\
+    \begin{block}{c(cc)}
+        \text{Row } 1 & (2, 1, 2) & (3, 2, 3) \\
+        \text{Row } 2 & (0, 4, 0) & (1, 0, 0) \\
+    \end{block}
+\end{blockarray}\qquad
+%
+\begin{blockarray}{ccc}
+    & \BAmulticolumn{2}{c}{\text{Matrix } 2} \\ [1em]
+    & \text{Col} 1 & \text{Col} 2 \\
+    \begin{block}{c(cc)}
+        \text{Row } 1 & (1, -1, 4) & (2, 1, 3) \\
+        \text{Row } 2 & (-1, 4, 0) & (0, 0, 3) \\
+    \end{block}
+\end{blockarray}
+\end{equation*}
+
+\end{document}
+
