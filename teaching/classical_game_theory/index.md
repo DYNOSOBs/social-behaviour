@@ -30,6 +30,8 @@ image:
 
 <h5>Exercises</h5>
 
+- [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
+
 
 <h5>Reading list</h5>
 

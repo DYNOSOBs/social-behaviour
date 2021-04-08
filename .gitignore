@@ -7,4 +7,11 @@ node_modules
 _asset_bundler_cache
 .sass-cache
 .jekyll-metadata
+
+# System files
 .idea/
+.vscode/
+
+# LaTex
+*.aux
+*.log
