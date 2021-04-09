@@ -19,7 +19,7 @@ image:
 <h5>Syllabus</h5>
 
 - [**Week 1.** Introduction](notes/Game_Theory_1.pdf)
-- [**Week 2.** Static games with complete information I: Elimination of dominated strategies]()
+- [**Week 2.** Static games with complete information I: Elimination of dominated strategies](notes/Game_Theory_2.pdf)
 - [**Week 3.** Static games with complete information II: Nash equilibrium]()
 - [**Week 4.** Sequential games with complete information I: Subgame perfection]()
 - [**Week 5.** Sequential games with complete information II: Repeated games]()
