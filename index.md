@@ -14,11 +14,6 @@ translate social interactions into strategic games. These games can then be
 explored mathematically, with computer simulations, and with behavioral
 experiments.
 
-We are currently offering one PhD position via the [IMPRS](https://www.evolbio.mpg.de/3015776/imprsprogram)
-program on ["Modeling the coevolution of reciprocity and network structure"](https://www.evolbio.mpg.de/3289874/hilbeproject).
-You can find more information on the application process at: [https://www.evolbio.mpg.de/3017297/application](https://www.evolbio.mpg.de/3017297/application).
-
-
 <h5>News</h5>
 
 - On January 21, 2021, Dr. Vince Knight gave a fantastic talk on reproducibility in cooperation research. Read our blog post for more details: <a href="articles/vincestalk/">Talk by Vince Knight on Reproducibility of Research in Cooperation</a>.
