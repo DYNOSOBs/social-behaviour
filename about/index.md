@@ -9,7 +9,9 @@ share: false
 ads: false
 ---
 
-<p class="big" style="font-size:18px;">
+<h5>About</h5>
+
+<p class="big" style="font-size:16px;">
 Max Planck Institute for Evolutionary Biology <br>
 Department of Evolutionary Theory <br>
 August-Thienemann-Str. 2 <br>
@@ -17,4 +19,4 @@ August-Thienemann-Str. 2 <br>
 Germany
 </p>
 
-<img src="../images/plon.jpeg" width="400" height="600">
+<img class="roundrect" src="../images/plon.jpeg" width="300" height="500" >
