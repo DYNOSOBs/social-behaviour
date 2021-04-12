@@ -18,6 +18,9 @@
   }
   .post-title {
     @include font-size(18,no);
+    :hover {
+      text-decoration: underline;
+    }
   }
   .post-excerpt {
     @include font-size(16);

@@ -37,7 +37,7 @@ image:
 
 - **Classical game theory**
   - Fudenberg and Tirole: [Game Theory](https://homepage.univie.ac.at/Mariya.Teteryatnikova/WS2011/FT.pdf) (MIT University Press, 1991)
-  - Michael Osborne: An introduction to game theory (Oxford University Press, 2003)
+  - Michael Osborne: [An introduction to game theory](Michael Osborne: An introduction to game theory) (Oxford University Press, 2003)
   - Kenneth Binmore: Game theory: A very short introduction (Oxford University Press, 2007)
 
 
