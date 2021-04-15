@@ -19,16 +19,49 @@
 \maketitle
 \vspace{-1cm}
 
-\subsection*{Exercise 1: Iterated elimination of dominated strategies I (previous exercise 4)}
+\subsection*{Exercise 1: Iterated elimination of dominated strategies I}
 
-\subsection*{Exercise 2: Iterated elimination of dominated strategies II (previous exercise 5)}
+\textbf{Construct a 2-player game such that:}
+
+\begin{enumerate}
+    \item Both players have 3 actions.
+    \item The game cannot be solved by elimination of dominated strategies.
+    \item The game can be solved by iterated elimination of dominated strategies.
+\end{enumerate}
+
+\subsection*{Exercise 2: Iterated elimination of dominated strategies II}
+
+Consider the following 3-players game. Here the first player chooses a row,
+the second player chooses a column, and the third player chooses a matrix.
+
+\textbf{Can you solve this game using iterated elimination of strategies?}
+
+\begin{equation*}
+\begin{blockarray}{ccc}
+    & \BAmulticolumn{2}{c}{\text{Matrix } 1} \\ [1em]
+    & \text{Col } 1 & \text{Col } 2 \\
+    \begin{block}{c(cc)}
+        \text{Row } 1 & (2, 1, 6) & (3, 2, 3) \\
+        \text{Row } 2 & (0, 4, 0) & (1, 0, 0) \\
+    \end{block}
+\end{blockarray}\qquad
+%
+\begin{blockarray}{ccc}
+    & \BAmulticolumn{2}{c}{\text{Matrix } 2} \\ [1em]
+    & \text{Col } 1 & \text{Col } 2 \\
+    \begin{block}{c(cc)}
+        \text{Row } 1 & (1, -1, 4) & (2, 1, 4) \\
+        \text{Row } 2 & (-1, 4, 0) & (0, 0, 3) \\
+    \end{block}
+\end{blockarray}
+\end{equation*}
 
 \subsection*{Exercise 3: Nash equilibrium vs dominance solvability}
 
 \textbf{Prove the following statements:}
 
 \begin{enumerate}[(i)]
-    \item If a pure strategy \(S^{(i)}_{j}\) is dominated and 
+    \item If a pure strategy \(s^{(i)}_{j}\) is dominated by a pure strategy \(s^{(i)}_{k}\) and
     \(\sigma = (\sigma^{(1)}, \dots, \sigma^{(n)})\) is a Nash equilibrium, then
     \(\sigma^{(i)}_{j}=0\).
     \item If the game is dominance solvable such that the unique outcome of
@@ -36,10 +69,9 @@
     \(s=(s^{(1)}, \dots, s^{(n)})\), then \(s\) is a Nash equilibrium.
 \end{enumerate}
 
-
-[Hint: In each case prove by contradiction. For example, for (i) assume that these was a
-Nash equilibrium with \(\sigma^{(i)}_{j}>0\),
-and show that this would yield some contradiction.]
+[Suggestion: One could use contradiction to prove the above statements. For example, for (i)
+assume that these was a Nash equilibrium with \(\sigma^{(i)}_{j}>0\), and show
+that this would yield some contradiction.]
 
 \subsection*{Exercise 4: Best responses}
 
@@ -67,7 +99,7 @@ probability to Stag. Similarly, player 2's strategy is \((y, 1 - y)\).
     1]\) are a best response.
     \item Draw the two best response correspondences BR(\(x\)), BR(\(y\)) into a
     \(x-y\) plane. How often do they intersect? What does it mean if they
-    intersect.
+    intersect?
 \end{enumerate}
 
 \end{document}

@@ -31,6 +31,7 @@ image:
 <h5>Exercises</h5>
 
 - [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
+- [Static games with complete information II: Nash equilibrium](exercises/w3.pdf)
 
 
 <h5>Reading list</h5>
