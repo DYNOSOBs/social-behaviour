@@ -20,18 +20,18 @@ image:
 
 - [**Week 1.** Introduction](notes/Game_Theory_1.pdf)
 - [**Week 2.** Static games with complete information I: Elimination of dominated strategies](notes/Game_Theory_2.pdf)
-- [**Week 3.** Static games with complete information II: Nash equilibrium]()
-- [**Week 4.** Sequential games with complete information I: Subgame perfection]()
-- [**Week 5.** Sequential games with complete information II: Repeated games]()
-- [**Week 6.** Static games with incomplete information: Bayesian Nash equilibrium.]()
-- [**Week 7.** Sequential games with incomplete information I: Perfect Bayesian Nash equilibrium]()
-- [**Week 8.** Sequential games with incomplete information II: Signalling games, equilibrium refinements]()
+- [**Week 3.** Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](notes/Game_Theory_3.pdf)
+- [**Week 4.** Static games with complete information III: Nash equilibria.]()
+- [**Week 5.** Sequential games with complete information I: Subgame perfection.]()
+- [**Week 6.** Sequential games with complete information II: Repeated games.]()
+- [**Week 7.** Static games with incomplete information: Bayesian Nash equilibrium.]()
+- [**Week 8.** Sequential games with incomplete information: Perfect Bayesian Nash equilibrium, Signalling games]()
 - [**Week 9.** Arising topics, Q&A.]()
 
 <h5>Exercises</h5>
 
 - [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
-- [Static games with complete information II: Nash equilibrium](exercises/w3.pdf)
+- [Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](exercises/w3.pdf)
 
 
 <h5>Reading list</h5>
@@ -47,3 +47,7 @@ image:
   - Hauert and Traulsen: [Stochastic evolutionary dynamics](https://www.math.ubc.ca/~hauert/publications/preprints/traulsen_09.pdf) (Book chapter)
   - Sigmund: Calculus of selfishness (Princeton University Press, 2010)
   - Nowak: Evolutionary dynamics (Harvard University Press, 2006)
+
+
+- **Cool papers related to the course**
+  - Hofbauer and Sandholm: [Survival of dominated strategies under evolutionary dynamics'](https://econtheory.org/ojs/index.php/te/article/viewFile/20110341/5736/193) (Theoretical Economics, 2011)
