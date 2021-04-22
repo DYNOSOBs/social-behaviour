@@ -21,10 +21,10 @@ image:
 - [**Week 1.** Introduction](notes/Game_Theory_1.pdf)
 - [**Week 2.** Static games with complete information I: Elimination of dominated strategies](notes/Game_Theory_2.pdf)
 - [**Week 3.** Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](notes/Game_Theory_3.pdf)
-- [**Week 4.** Static games with complete information III: Nash equilibria.]()
-- [**Week 5.** Sequential games with complete information I: Subgame perfection.]()
-- [**Week 6.** Sequential games with complete information II: Repeated games.]()
-- [**Week 7.** Static games with incomplete information: Bayesian Nash equilibrium.]()
+- [**Week 4.** Static games with complete information III: Nash equilibria]()
+- [**Week 5.** Sequential games with complete information I: Subgame perfection]()
+- [**Week 6.** Sequential games with complete information II: Repeated games]()
+- [**Week 7.** Static games with incomplete information: Bayesian Nash equilibrium]()
 - [**Week 8.** Sequential games with incomplete information: Perfect Bayesian Nash equilibrium, Signalling games]()
 - [**Week 9.** Arising topics, Q&A.]()
 
@@ -32,6 +32,7 @@ image:
 
 - [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
 - [Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](exercises/w3.pdf)
+- [Static games with complete information III: Nash equilibria](exercises/w4.pdf)
 
 
 <h5>Reading list</h5>
