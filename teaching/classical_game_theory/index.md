@@ -33,6 +33,7 @@ image:
 - [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
 - [Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](exercises/w3.pdf)
 - [Static games with complete information III: Nash equilibria](exercises/w4.pdf)
+- [Sequential games with complete information I: Subgame perfection](exercises/w5.pdf)
 
 
 <h5>Reading list</h5>
