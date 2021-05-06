@@ -34,6 +34,7 @@ image:
 - [Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](exercises/w3.pdf)
 - [Static games with complete information III: Nash equilibria](exercises/w4.pdf)
 - [Sequential games with complete information I: Backward Induction](exercises/w5.pdf)
+- [Sequential games with complete information II: Subgame perfection and repeated games](exercises/w6.pdf)
 
 
 <h5>Reading list</h5>
