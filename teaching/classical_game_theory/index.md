@@ -24,7 +24,7 @@ image:
 - [**Week 4.** Static games with complete information III: Nash equilibria](notes/Game_Theory_4.pdf)
 - [**Week 5.** Sequential games with complete information I: Backward Induction](notes/Game_Theory_5.pdf)
 - [**Week 6.** Sequential games with complete information II: Subgame perfection and repeated games](notes/Game_Theory_6.pdf)
-- [**Week 7.** Static games with incomplete information: Bayesian Nash equilibrium]()
+- [**Week 7.** Sequential games with complete information III: Repeated games]()
 - [**Week 8.** Sequential games with incomplete information: Perfect Bayesian Nash equilibrium, Signalling games]()
 - [**Week 9.** Arising topics, Q&A.]()
 
@@ -35,6 +35,7 @@ image:
 - [Static games with complete information III: Nash equilibria](exercises/w4.pdf)
 - [Sequential games with complete information I: Backward Induction](exercises/w5.pdf)
 - [Sequential games with complete information II: Subgame perfection and repeated games](exercises/w6.pdf)
+- [Sequential games with complete information III: Repeated games](exercises/w7.pdf)
 
 
 <h5>Reading list</h5>
