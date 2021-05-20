@@ -25,9 +25,9 @@
 
 \begin{document}
 \maketitle
-\vspace{-1cm}
 
-\subsection*{Exercise 1: Volunteer's dilemma with correlated costs}
+
+\subsection*{Bonus 1: Volunteer's dilemma with correlated costs}
 
 Consider the volunteer's dilemma with payoffs
 
@@ -45,7 +45,7 @@ Suppose \(c_1\) is randomly drawn from \([0, 2]\) uniformly. For \(c_2\) assume
 that it is (anti-) correlated, such that \(c_1 + c_2 = 2\) is always satisfied
 (whenever player 1 has a comparably high cost they know player 2 has a
 comparable low cost). \textbf{Show that the following strategies are Bayesian Nash
-equilibria.}
+equilibrium.}
 
 \begin{equation*}
     S^{(1)}(c_1) = 
@@ -62,7 +62,12 @@ equilibria.}
 
 \underline{\textbf{Bonus question:}} Are there any other Bayesian Nash equilibria?
 
-\subsection*{Exercise 2: Second-price sealed bid auction}
+
+[Hint: To show that (\(S^{(1)}\), \(S^{(2)}\)) is a Bayesian Nash equilibrium,
+consider player 1. Show that for $c_1 < 1$ and for $c_1 > 1$ the player
+has no reason to deviate from \(S^{(1)}\). Do the same for player 2.]
+
+\subsection*{Bonus 2: Second-price sealed bid auction}
 
 An items is sold to the higher bid among \(n\) players. The players' values for
 the item, \(\mathbf{v}^{(i)}\), are uniformly and independently drawn from \([0, 1]\).
@@ -90,9 +95,9 @@ Show that bidding \(b^{(i)} \neq \textbf{v}^{(i)}\) never yields a higher payoff
 \(\textbf{v}^{(i)} = \max\limits_j (b^{(j)})\) and \(\textbf{v}^{(i)} < \max\limits_j (b^{(j)})\).]
 
 
-\subsection*{Exercise 3: Revenue equivalence theorem}
+\subsection*{Exercise 1: Revenue equivalence theorem}
 
-Consider an auction between two players with valuations for an item ?? uniformly
+Consider an auction between two players with valuations for an item again uniformly
 drawn from \([0, 1]\). We already know the equilibria of the
 
 
@@ -109,7 +114,7 @@ has to pay) is the same for both auctions.}
 \(\frac{\textbf{v}}{2}\), in both cases.]
 
 
-\subsection*{Exercise 4: Pooling equilibrium of the IMPRS game}
+\subsection*{Exercise 2: Pooling equilibrium of the IMPRS game}
 
 Revisit the IMPRS game from Example 4.8. 
 
@@ -119,7 +124,7 @@ Revisit the IMPRS game from Example 4.8.
         \tikzstyle{level 1}=[level distance=15mm,sibling distance=45mm] \tikzstyle{level 2}=[level distance=15mm,sibling distance=15mm]
         \tikzstyle{level 3}=[level distance=16mm]
         % The Tree
-        \node(0)[solid node,label=above:{???}]{}
+        \node(0)[solid node,label=above:{Nature}]{}
         child{node(1)[solid node]{}
         child{node[hollow node,label=below:{$(0, 0)$}]{} edge from parent node[above, rotate=65]{Not Apply}} 
         child{node[solid node]{} child{node(3)[hollow node, label=below:{$(-1, 0)$}]{} edge from parent node[above, rotate=65, xshift=-0.2cm]{Don't accept}} 
@@ -150,7 +155,7 @@ deviate.}
     s^{(2)} & = \text{Don't accept}.
 \end{align*}
 
-[Hint: For this, ? that in this equilibrium, no student ever applies. So if MPI
+[Hint: For this, note that in this equilibrium, no student ever applies. So if MPI
 observes an application, if does not know from the student's strategies which
 of the student applied. Assume that MPI thinks
 \(\mathbb{P}(\text{good} \mid \text{Apply}) = \frac{1}{2}\).]
