@@ -20,7 +20,7 @@
     solid node/.style={circle,draw,inner sep=1.5,fill=black}, hollow node/.style={circle,draw,inner sep=1.5}
     }
 
-\title{\textbf{Week 8.} Static games with incomplete information}
+\title{\textbf{Week 8.} Games with incomplete information}
 \date{}
 
 \begin{document}
@@ -44,16 +44,16 @@ Consider the volunteer's dilemma with payoffs
 Suppose \(c_1\) is randomly drawn from \([0, 2]\) uniformly. For \(c_2\) assume
 that it is (anti-) correlated, such that \(c_1 + c_2 = 2\) is always satisfied
 (whenever player 1 has a comparably high cost they know player 2 has a
-comparable low cost). \textbf{Show that the following strategies are Bayesian Nash
+comparable low cost). \textbf{Show that the following strategies are a Bayesian Nash
 equilibrium.}
 
 \begin{equation*}
-    S^{(1)}(c_1) = 
+    s^{(1)}(c_1) = 
     \begin{cases}
         C,& \text{if } c_1 \leq 1\\
         D,              & \text{if } c_1 > 1
     \end{cases} \qquad
-    S^{(2)}(c_2) = 
+    s^{(2)}(c_2) = 
     \begin{cases}
         C,& \text{if } c_2 < 1\\
         D,              & \text{if } c_2 \geq 1
@@ -62,14 +62,14 @@ equilibrium.}
 
 \underline{\textbf{Bonus question:}} Are there any other Bayesian Nash equilibria?
 
-
-[Hint: To show that (\(S^{(1)}\), \(S^{(2)}\)) is a Bayesian Nash equilibrium,
-consider player 1. Show that for $c_1 < 1$ and for $c_1 > 1$ the player
-has no reason to deviate from \(S^{(1)}\). Do the same for player 2.]
+[Hint: To show that (\(s^{(1)}\), \(s^{(2)}\)) is a Bayesian Nash equilibrium,
+consider player 1. Show that for the three cases $c_1 < 1$, $c_1 > 1$ and $c_1 =
+1$, the player has no reason to deviate from \(s^{(1)}\). Do the same for player
+2.]
 
 \subsection*{Bonus 2: Second-price sealed bid auction}
 
-An items is sold to the higher bid among \(n\) players. The players' values for
+An item is sold to the highest bid among \(n\) players. The players' values for
 the item, \(\mathbf{v}^{(i)}\), are uniformly and independently drawn from \([0, 1]\).
 The players' strategy is to choose a bid, depending on how much the item would be
 worth to them, \(s^{(i)}: \mathbf{v}^{(i)} \rightarrow b^{(i)}\).
@@ -80,7 +80,7 @@ pay the second-highest bid.
 \begin{equation*}
 \text{Payoff: }    \pi^{(i)} (b^{(i)}, b^{(-i)}) = 
     \begin{cases}
-        \mathbf{v}^{(i)} - \max\limits_j(b^{(j)}), & \text{if } b^{(i)} > b^{(j)} \ \forall \ j \neq i \\
+        \mathbf{v}^{(i)} - \max\limits_{j \neq i}(b^{(j)}), & \text{if } b^{(i)} > b^{(j)} \ \forall \ j \neq i \\
         (\mathbf{v}^{(i)} - \max\limits_{j \neq i}(b^{(j)})) / K, & \text{if } b^{(i)} = \max\limits_{j \neq i} (b^{(j)}) \ \& \ K \text{number of highest biddings}\\
         0,              & \text{otherwise}.
     \end{cases}
@@ -103,20 +103,20 @@ drawn from \([0, 1]\). We already know the equilibria of the
 
 \begin{itemize}
     \item first-price sealed bid auction: \(b ^ {(i)} =  \frac{1}{2} \textbf{v}^{(i)}\) (Example 4.5), and the
-    \item second-price sealed bid auction: \(b ^ {(i)} =  \textbf{v}^{(i)}\) (Exercise 2).
+    \item second-price sealed bid auction: \(b ^ {(i)} =  \textbf{v}^{(i)}\) (Bonus 2).
 \end{itemize}
 
-\textbf{Show that the expected revenue for the seller (the price the winning bidding
+\textbf{Show that the expected revenue for the seller (the price the winning bidder
 has to pay) is the same for both auctions.}
 
-[Hint: Suppose the player with the highest valuation assigns a value
+[Hint: Suppose without loss of generality that the player with the highest valuation assigns a value
 \(\textbf{v}\) to the item. Show that the expected revenue of the seller is
 \(\frac{\textbf{v}}{2}\), in both cases.]
 
 
 \subsection*{Exercise 2: Pooling equilibrium of the IMPRS game}
 
-Revisit the IMPRS game from Example 4.8. 
+Revisit the IMPRS game from Example 4.8.
 
 \begin{figure*}[!htbp]
     \begin{center}
@@ -156,7 +156,7 @@ deviate.}
 \end{align*}
 
 [Hint: For this, note that in this equilibrium, no student ever applies. So if MPI
-observes an application, if does not know from the student's strategies which
+observes an application, it does not know from the student's strategies which
 of the student applied. Assume that MPI thinks
 \(\mathbb{P}(\text{good} \mid \text{Apply}) = \frac{1}{2}\).]
 \end{document}
