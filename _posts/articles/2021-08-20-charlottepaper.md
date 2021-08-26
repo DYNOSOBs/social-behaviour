@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "First paper by Charlotte on the perception of cooperativeness"
+title: "(Mis)perception of Cooperativeness, a review"
 categories: articles
 excerpt: "Charlotte's first paper."
 modified: 2021-08-20
