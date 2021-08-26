@@ -7,7 +7,7 @@ modified: 2021-08-20
 tags:
 image:
   path: *image
-  teaser: Vince_talk_picture.png
+  teaser: perception_cooperativeness.png
 ---
 
 <p align="justify">
