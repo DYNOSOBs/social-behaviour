@@ -9,6 +9,10 @@ image:
 
 <h5>Journal articles</h5>
 
+- Charlotte S. L. Rossetti, Christian Hilbe & Oliver P. Hauser.
+[**(Mis)perceiving cooperativeness**](https://www.sciencedirect.com/science/article/pii/S2352250X21000920)
+_Current Opinion in Psychology_ (2021) <a href="papers/Misperceiving_Cooperativeness.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Nikoleta E. Glynatsi & Vincent A. Knight.
 [**A bibliometric study of research topics, collaboration and centrality in the Iterated Prisoner’s Dilemma**](https://www.nature.com/articles/s41599-021-00718-9)
 _Humanities and Social Sciences Communications_ (2021) <a href="papers/bibliometric_study.pdf"><i class="fa fa-file-pdf-o"></i>
