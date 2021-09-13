@@ -20,7 +20,7 @@ The theme of the paper was perceptions of cooperation.
 As such, we reviewed the recent literature on how human subjects perceive the cooperativeness of their co-players. 
 Research in the field has already pointed out the importance of beliefs when it comes to cooperation. 
 If players expect their partner to cooperate, they are more likely to cooperate themselves. 
-The question we seek to answer in our review is how are beliefs and expectations about the cooperativeness of other co-players formed, 
+The question we seek to answer in our review is how beliefs and expectations about the cooperativeness of other co-players formed,
 and to which cues do subjects attend to in order to form these beliefs. 
 In addition, we are interested to see if, and when, these beliefs are correct and accurate.
 </p>
