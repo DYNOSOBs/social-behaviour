@@ -11,7 +11,7 @@ image:
 ---
 
 <p align="justify">
-My first paper is a review done in collaboration with my two supervisor, 
+My first paper is a review done in collaboration with my two supervisors, 
 Christian Hilbe and Oliver, on an invitation from guest editors of the journal Current Opinion in Psychology.
 </p>
 
