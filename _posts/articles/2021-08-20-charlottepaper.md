@@ -37,7 +37,7 @@ These can be the payoffs, decision time, or the possibility to communicate.
 
 <p align="justify">
 Some of these have stronger predictive power than others. 
-Overall, personal attributes are unreliable indicator of cooperative behaviour, 
+Overall, personal attributes are unreliable indicators of cooperative behaviour, 
 yet subjects do rely on them to form their beliefs of cooperativeness. 
 Nonetheless, it seems that when there are other, different cues available, 
 people are able to recognise which ones are more useful, 
