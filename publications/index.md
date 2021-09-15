@@ -9,6 +9,10 @@ image:
 
 <h5>Journal articles</h5>
 
+- Laura Schmid, Pouya Shati, Christian Hilbe & Krishnendu Chatterjee 
+[**The evolution of indirect reciprocity under action and assessment generosity**](https://www.nature.com/articles/s41598-021-96932-1)
+_Scientific Reports_ (2021) <a href="papers/Evolution_of_indirect_reciprocity_under_action.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Charlotte S. L. Rossetti, Christian Hilbe & Oliver P. Hauser.
 [**(Mis)perceiving cooperativeness**](https://www.sciencedirect.com/science/article/pii/S2352250X21000920)
 _Current Opinion in Psychology_ (2021) <a href="papers/Misperceiving_Cooperativeness.pdf"><i class="fa fa-file-pdf-o"></i>
