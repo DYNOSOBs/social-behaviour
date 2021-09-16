@@ -14,3 +14,10 @@ image:
   {% include people-grib.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+<div id="alumini">
+<h5>Alumini</h5>
+<ul>
+  <li> <b> Logan Cartau </b> (Intern). Coevolution of reciprocity and network topology. 2021</li>
+</ul>
+</div>
