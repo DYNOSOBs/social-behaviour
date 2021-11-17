@@ -21,24 +21,31 @@ image:
 - [**Week 1.** Introduction](notes/Game_Theory_1.pdf)
 - [**Week 2.** Static games with complete information I: Elimination of dominated strategies](notes/Game_Theory_2.pdf)
 - [**Week 3.** Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](notes/Game_Theory_3.pdf)
-- [**Week 4.** Static games with complete information III: Nash equilibria.]()
-- [**Week 5.** Sequential games with complete information I: Subgame perfection.]()
-- [**Week 6.** Sequential games with complete information II: Repeated games.]()
-- [**Week 7.** Static games with incomplete information: Bayesian Nash equilibrium.]()
-- [**Week 8.** Sequential games with incomplete information: Perfect Bayesian Nash equilibrium, Signalling games]()
-- [**Week 9.** Arising topics, Q&A.]()
+- [**Week 4.** Static games with complete information III: Nash equilibria](notes/Game_Theory_4.pdf)
+- [**Week 5.** Sequential games with complete information I: Backward Induction](notes/Game_Theory_5.pdf)
+- [**Week 6.** Sequential games with complete information II: Subgame perfection and repeated games](notes/Game_Theory_6.pdf)
+- [**Week 7.** Sequential games with complete information III: Repeated games](notes/Game_Theory_7.pdf)
+- [**Week 8.** Games with incomplete information](notes/Game_Theory_8.pdf)
+- [**Week 9.** Sequential games with incomplete information: Perfect Bayesian Nash equilibrium, Signalling games](notes/Game_Theory_9.pdf)
+- [**Content Summary**](notes/Content_Summary.pdf)
+- [**A historical timeline of events**](notes/Game_theory_timeline.pdf)
 
 <h5>Exercises</h5>
 
 - [Static games with complete information I: Elimination of dominated strategies](exercises/w2.pdf)
 - [Static games with complete information II: Elimination of dominated strategies, Nash equilibrium](exercises/w3.pdf)
+- [Static games with complete information III: Nash equilibria](exercises/w4.pdf)
+- [Sequential games with complete information I: Backward Induction](exercises/w5.pdf)
+- [Sequential games with complete information II: Subgame perfection and repeated games](exercises/w6.pdf)
+- [Sequential games with complete information III: Repeated games](exercises/w7.pdf)
+- [Games with incomplete information](exercises/w8.pdf)
 
 
 <h5>Reading list</h5>
 
 - **Classical game theory**
   - Fudenberg and Tirole: [Game Theory](https://homepage.univie.ac.at/Mariya.Teteryatnikova/WS2011/FT.pdf) (MIT University Press, 1991)
-  - Michael Osborne: [An introduction to game theory](Michael Osborne: An introduction to game theory) (Oxford University Press, 2003)
+  - Michael Osborne: [An introduction to game theory](https://mathematicalolympiads.files.wordpress.com/2012/08/martin_j-_osborne-an_introduction_to_game_theory-oxford_university_press_usa2003.pdf) (Oxford University Press, 2003)
   - Kenneth Binmore: Game theory: A very short introduction (Oxford University Press, 2007)
 
 
@@ -51,3 +58,4 @@ image:
 
 - **Cool papers related to the course**
   - Hofbauer and Sandholm: [Survival of dominated strategies under evolutionary dynamics'](https://econtheory.org/ojs/index.php/te/article/viewFile/20110341/5736/193) (Theoretical Economics, 2011)
+  - Christos Papadimitriou: The complexity of finding Nash equilibria (Book chapter) (Cambridge University Press, 2007)

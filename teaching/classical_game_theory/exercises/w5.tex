@@ -1,0 +1,101 @@
+\documentclass[10pt]{article}
+
+% Manage page layout
+\usepackage[margin=2.5cm, includefoot, footskip=30pt]{geometry}
+\pagestyle{plain}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
+
+\usepackage{blkarray}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{eurosym}
+\usepackage{enumerate}
+
+\title{\textbf{Week 5.} Sequential games with complete information I: Backward Induction}
+\date{}
+
+\begin{document}
+\maketitle
+
+
+\subsection*{Exercise 1: Sequential prisoner's dilemma with remorse}
+
+Revisit the prisoner's dilemma with remorse (Example 2.13 from the lecture). The
+payoff matrix is:
+
+\begin{equation*}
+    \begin{blockarray}{ccc}
+        & \text{Silence} & \text{Confess} \\
+        \begin{block}{c(cc)}
+            \text{Silence} & (3, 3) & (0, 0) \\
+            \text{Confess} & (4, 0) & (1, 1) \\
+        \end{block}
+    \end{blockarray}
+\end{equation*}
+
+We already know that if both players move simultaneously, then the only Nash
+equilibrium is (Confess, Confess).
+
+\textbf{Now solve this game with backward induction, assuming that}
+
+\begin{enumerate}
+    \item the row player moves first,
+    \item the column player moves first,
+\end{enumerate}
+
+\textbf{and interpret the result.}
+
+\subsection*{Exercise 2: Ultimatum bargain in 2 rounds}
+
+There is a good that is worth 1\euro~to the buyer and 0\euro~to the seller.
+Sequence of moves:
+
+\begin{enumerate}
+    \item Seller names a price \(p \in \{0.01, 0.02, \dots, 0.99\}\).
+    \item Buyer accepts or rejects the offer. If buyer accepts, the payoffs are
+    \(p\) for the seller, \(1 - p\) for the buyer and the game is over.
+    \item Otherwise, the buyer names a price \(p \in \{0.01, 0.02, \dots,
+    0.99\}\).
+    \item Seller accepts or rejects the offer. If the seller accepts, the
+    payoffs are \(p - \delta\) for the seller, and \(1 - p - \delta\) for the buyer
+    where \(\delta=0.045\) reflects the cost of having to go through a long
+    negotiation. If the seller rejects, the payoff of both players is
+    \(-\delta\).
+\end{enumerate}
+
+\textbf{Solve by backward induction, and interpret the result.}
+
+\subsection*{Exercise 3: Stackelberg Duopoly}
+
+Similar to the Cournot duopoly game consider the following situation:
+
+\begin{itemize}
+    \item Players: \(N = \{\text{Firm } 1, \text{Firm } 2\}\)
+    \item Actions: Amount of good produced, \(x^{(i)} \in [0, \infty)\) for \(i \in \{1, 2\}\)
+    \item Payoffs: \(\pi^{(i)}(x^{(1)}, x^{(2)}) = [a - b (x^{(1)} + x^{(2)})] x^{(i)} - c x^{(i)}\)
+\end{itemize}
+
+However, now assume that Firm 1 decides first, and Firm 2 observes Firms 1's
+decision before choosing an action.
+
+\textbf{Solve the game by backward induction (for \(a=10, b=1, c=1\)) and
+compare the result to the Nash equilibrium of the Cournot duopoly
+(\(\hat x^{(1)} = \hat x ^{(2)}  = 3)\)}.
+
+[Hint: First you should find the best response of Firm 2. That is, for any given
+output \(x^{(1)}\) of Firm 1, compute how Firm 2 would react if it wants to maximize
+its payoffs. Using this, compute how Firm 1 can maximize its own payoff when it
+takes into account that Firm 2 will react according to its best response.]
+
+\subsection*{Bonus Exercise 1: Properties of backward induction}
+
+\textbf{
+Prove that for any finite game with perfect information (i.e. in any game in which
+backward induction can be applied) the solution defined by backward induction
+is a Nash equilibrium.}
+
+
+\end{document}
+

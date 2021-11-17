@@ -1,0 +1,137 @@
+\documentclass[10pt]{article}
+
+% Manage page layout
+\usepackage[margin=2.5cm, includefoot, footskip=30pt]{geometry}
+\pagestyle{plain}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
+
+\usepackage{blkarray}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{eurosym}
+\usepackage{enumerate}
+
+\title{\textbf{Week 7.} Sequential games with complete information III: Repeated games}
+\date{}
+
+\begin{document}
+\maketitle
+
+\subsection*{Exercise 1: Win-Stay Lose-Shift}
+
+The strategy Win-Stay Lose-Shift (WSLS) cooperates in the first round. In all
+subsequent rounds, it cooperates if either both players cooperated in the
+previous round, or if no one did. Otherwise it defects.
+
+\textbf{Show that for the infinitely repeated prisoner's dilemma with stage game
+payoffs}
+
+\begin{equation*}
+    \begin{blockarray}{ccc}
+        & C & D \\
+        \begin{block}{c(cc)}
+            C & (3, 3) & (0, 4) \\
+            D & (4, 0) & (1, 1) \\
+        \end{block}
+    \end{blockarray}
+\end{equation*}
+
+\textbf{the strategy profile (WSLS, WSLS) is a subgame perfect equilibrium if
+\(\delta \geq \frac{1}{2}\).}
+
+[Hint: Similarly to the examples covered in class, to prove that the strategy
+profile (WSLS, WSLS) is a subgame perfect equilibrium we need to check different
+cases. For case one consider a history \(h_t\) according to which either both
+players cooperated in the previous round, or both players defected. For case two
+consider that one player defected.]
+
+\subsection*{Exercise 2: Mini-Max I}
+
+Consider the matching pennies games
+
+\begin{equation*}
+    \begin{blockarray}{ccc}
+        & \text{Left} & \text{Right} \\
+        \begin{block}{c(cc)}
+            \text{Up} &    (0.8, 0.4) & (0.4, 0.8) \\
+            \text{Down} & (0.4, 0.8) & (0.8, 0.4) \\
+        \end{block}
+    \end{blockarray}\qquad
+    \end{equation*}
+
+Show that in the definition of minimax, it is important to allow for mixed
+strategies of the opponent.
+
+\textbf{Specifically show that:}
+
+\begin{align*}
+    \min\limits_{s^{(2)}} \max\limits_{s^{(1)}} u^{(1)}(s^{(1)}, s^{(2)}) & = 0.8, \text{ but} \\
+    \min\limits_{\sigma^{(2)}} \max\limits_{s^{(1)}} u^{(1)}(s^{(1)}, \sigma^{(2)}) & = 0.6.
+\end{align*}
+
+
+\subsection*{Bonus 1: Mini-Max II}
+
+Show that the minimax payoff of a player can be lower than what this player
+could get in a Nash equilibrium. Specifically, consider the game
+
+\begin{equation*}
+    \begin{blockarray}{cccc}
+        & \text{Left} & \text{Right} \\
+        \begin{block}{c(ccc)}
+            \text{Up}  & (-2, 2)   & (1, -2)  \\
+            \text{Medium} & (1, -2)   & (-2, 2)  \\
+            \text{Down} & (0, 1) & (0, 1) \\
+        \end{block}
+    \end{blockarray}\qquad
+\end{equation*}
+
+\begin{itemize}
+    \item \textbf{Show that} the Nash equilibria of this game are of the form
+    \begin{align*}
+        \sigma^{(1)} & = (0, 0, 1) \\
+        \sigma^{(2)} & = (q, 1- q) \text{ with } q \in \left[\frac{1}{3}, \frac{2}{3}\right],\\
+    \end{align*}
+    and the resulting payoffs are \(\hat{u}^{(1)} = 0, \hat{u}^{(2)} = 1\).
+    \item \textbf{Show that} player 2's minimax payoff \(\underline{u}^{(2)} =
+    \min\limits_{\sigma^{(1)}} \max\limits_{s^{(2)}} u^{(2)}(\sigma^{(1)},
+    s^{(2)}) = 0 < \hat{u}^{(2)}\).
+\end{itemize}
+
+Now that you have shown that the minimax payoff of a player can be lower than
+their Nash equilibrium payoff, \textbf{conclude that in repeated games with a
+sufficient large \(\delta\), players may be worse off in equilibrium than in the
+one shot game.}
+
+\subsection*{Bonus Exercise 2: Folk Theorem}
+
+Consider the battle of the sexes
+
+\begin{equation*}
+    \begin{blockarray}{ccc}
+        & a_1 & a_2 \\
+        \begin{block}{c(cc)}
+            a_1 & (3, 1) & (0, 0) \\
+            a_2 & (0, 0) & (1, 3) \\
+        \end{block}
+    \end{blockarray}
+\end{equation*}
+
+\textbf{What is the set of feasible and individually rational payoffs?}
+
+\underline{Bonus:} Construct a strategy \(\hat{\sigma}\) for the repeated battle of sexes
+that for a sufficiently large \(\delta\) satisfies the following 2 conditions.
+
+\begin{enumerate}[(i)]
+    \item When both player adopt the strategy, they obtain a payoff of approximately
+    \(\pi^{(1)} = \pi^{(2)} = 2.\)
+    \item \((\hat{\sigma}, \hat{\sigma})\) is a subgame perfect equilibrium.
+    You do not need to show this rigorously, but give a convincing argument.
+\end{enumerate}
+
+
+
+\end{document}
+

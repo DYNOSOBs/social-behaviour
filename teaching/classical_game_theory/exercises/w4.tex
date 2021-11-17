@@ -1,0 +1,143 @@
+\documentclass[10pt]{article}
+
+% Manage page layout
+\usepackage[margin=2.5cm, includefoot, footskip=30pt]{geometry}
+\pagestyle{plain}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1}
+
+\usepackage{blkarray}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{enumerate}
+
+\title{\textbf{Week 4.} Static games with complete information III: Nash equilibria}
+\date{}
+
+\begin{document}
+\maketitle
+\vspace{-1cm}
+
+\subsection*{Exercise 1: Nash equilibrium vs dominance solvability}
+
+\textbf{Prove the following statements:}
+
+\begin{enumerate}[(i)]
+    \item If a pure strategy \(s^{(i)}_{j}\) is dominated by a pure strategy \(s^{(i)}_{k}\) and
+    \(\sigma = (\sigma^{(1)}, \dots, \sigma^{(n)})\) is a Nash equilibrium, then
+    \(\sigma^{(i)}_{j}=0\).
+    \item If the game is dominance solvable such that the unique outcome of
+    iterated elimination of dominated strategies is some pure strategy
+    \(s=(s^{(1)}, \dots, s^{(n)})\), then \(s\) is a Nash equilibrium.
+\end{enumerate}
+
+[Suggestion: One could use contradiction to prove the above statements. For example, for (i)
+assume that these was a Nash equilibrium with \(\sigma^{(i)}_{j}>0\), and show
+that this would yield some contradiction.]
+
+\subsection*{Exercise 2: Best responses}
+
+Consider the stag hunt game:
+
+\begin{equation*}
+    \begin{blockarray}{cccc}
+       & & \BAmulticolumn{2}{c}{\underline{\text{player 2}}} \\ [1em]
+       & & \text{Stag} & \text{Hare} \\
+        \begin{block}{cc(cc)}
+\underline{\text{player 1}} & \text{Stag} & (10, 10) & (0, 6) \\
+                            & \text{Hare} & (6, 0) & (6, 6) \\
+        \end{block}
+    \end{blockarray}
+\end{equation*}
+
+Suppose player 1 uses the mixed strategy \((x, 1- x)\), where \(x\) is player 1's
+probability to Stag. Similarly, player 2's strategy is \((y, 1 - y)\).
+
+\begin{enumerate}[(i)]
+    \item For given \(x, y\) compute the players' payoffs \(\pi^{(1)}(x, y),
+    \pi^{(2)}(x, y)\) (see Remarks 2.6, 2.7).
+    \item For a given \(y\) compute player 1's best response (BR(\(y\))). In
+    particular, show that there is some \(y^{*}\) such that all \(x \in [0,
+    1]\) are a best response.
+    \item Draw the two best response correspondences BR(\(x\)), BR(\(y\)) into a
+    \(x-y\) plane. How often do they intersect? What does it mean if they
+    intersect?
+\end{enumerate}
+
+\subsection*{Exercise 3: Cournot Duopoly}
+
+The Cournot duopoly game is defined by:
+
+\begin{itemize}
+    \item Players: \(N = \{\text{Firm } 1, \text{Firm } 2\}\)
+    \item Actions: Amount of good produced, \(x^{(i)} \in [0, \infty)\) for \(i \in \{1, 2\}\)
+    \item Payoffs: \(\pi^{(i)}(x^{(1)}, x^{(2)}) = [a - b (x^{(1)} + x^{(2)})] x^{(i)} - c x^{(i)}\)
+\end{itemize}
+
+\textbf{Show that there is a Nash equilibrium in pure strategies. For simplicity
+assume \(a=10, b=1, c=1\)}.
+
+[Hint: For each \(x^{(i)}\) computer BR\((x^{(-i)})\). Then solve simultaneously:
+\begin{align*}
+    x^{(1)}= \text{BR}(x^{(2)}) \\
+    x^{(2)}= \text{BR}(x^{(1)})
+\end{align*}
+]
+
+\subsection*{Exercise 4: Matching Pennies}
+
+\textbf{Compute the Nash equilibria for the following two games, and interpret the result.}
+
+\begin{equation*}
+    \begin{blockarray}{ccc}
+        & \text{Left} & \text{Right} \\
+        \begin{block}{c(cc)}
+            \text{Top} &    (0.8, 0.4) & (0.4, 0.8) \\
+            \text{Bottom} & (0.4, 0.8) & (0.8, 0.4) \\
+        \end{block}
+    \end{blockarray}\qquad
+    %
+    \begin{blockarray}{ccc}
+        & \text{Left} & \text{Right} \\
+        \begin{block}{c(cc)}
+            \text{Top} &    (3.2, 0.4) & (0.4, 0.8) \\
+            \text{Bottom} & (0.4, 0.8) & (0.8, 0.4) \\
+        \end{block}
+    \end{blockarray}
+    \end{equation*}
+
+\subsection*{Bonus Exercise 1: Verifying NE in games with finitely many players \& actions}
+
+Show that to verify whether a strategy profile \(\hat{\sigma} =
+(\hat{\sigma}^{(1)}, \dots, \hat{\sigma}^{(n)})\) is a Nash equilibrium, it is
+sufficient to check all deviations towards pure strategies.
+
+\textbf{Specifically show that \(\hat{\sigma}\) is a Nash equilibrium if and only if for
+all players \(i\) the following two conditions hold:}
+
+\begin{enumerate}[(i)]
+    \item All actions that player \(i\) uses give the same payoff: if
+    \(\sigma^{(i)}_j > 0\) and \(\sigma^{(i)}_k > 0\) then
+    \(\pi^{(i)}(s^{(i)}_j, \hat{\sigma}^{(-i)}) = \pi^{(i)}(s^{(i)}_k,
+    \hat{\sigma}^{(-i)})\).
+    \item Actions that are not played are not profitable: if \(\sigma^{(i)}_j =
+    0\) then \(\pi^{(i)}(s^{(i)}_j, \hat{\sigma}^{(-i)}) \leq
+    \pi^{(i)}(\hat{\sigma}^{(i)}, \hat{\sigma}^{(-i)})\).
+\end{enumerate}
+
+[Hint: One way to prove the above is once again by contradiction.]
+
+\subsection*{Bonus Exercise 2: Finding games with a non-generic number of equilibria}
+
+\textbf{Find an example of a symmetric 2 player game, with 2 actions per player, with:}
+
+\begin{itemize}
+    \item Exactly 2 Nash equilibria
+    \item infinitely many Nash equilibria
+\end{itemize}
+
+[Note: These should include all Nash equilibria. Not just pure Nash equilibria.]
+
+\end{document}
+
