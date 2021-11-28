@@ -10,8 +10,11 @@ image:
   teaser: perception_cooperativeness.png
 ---
 
+by Charlotte Rossetti
+
 <p align="justify">
-My first paper is a review done in collaboration with my two supervisors, 
+My first paper, <a href="https://www.sciencedirect.com/science/article/pii/S2352250X21000920"> (Mis)perceiving cooperativeness</a>,
+is a review done in collaboration with my two supervisors, 
 Christian Hilbe and Oliver, on an invitation from guest editors of the journal Current Opinion in Psychology.
 </p>
 
@@ -26,7 +29,7 @@ In addition, we are interested to see if, and when, these beliefs are correct an
 </p>
 
 <p align="justify">
-From the literature we reviewed, 
+From the literature we reviewed,
 we were able to make out three types of cues that subjects use to form their beliefs and expectations of cooperativeness: 
 Behavioural cues, Personal cues, and Situational cues. Behavioural cues refer to the past actions of the co-player. 
 This can be whether the co-player previously gave money to charity, punished non-cooperator or simply cooperated in an earlier game. 
