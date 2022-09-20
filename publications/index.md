@@ -9,6 +9,10 @@ image:
 
 <h5>Journal articles</h5>
 
+- Marta C. Couto, Stefano Giaimo & Christian Hilbe 
+[**Introspection dynamics: a simple model of counterfactual learning in asymmetric games**](https://iopscience.iop.org/article/10.1088/1367-2630/ac6f76)
+_New Journal of Physics_ (2022) <a href="papers/Introspection_NJP_2022.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Laura Schmid, Pouya Shati, Christian Hilbe & Krishnendu Chatterjee 
 [**The evolution of indirect reciprocity under action and assessment generosity**](https://www.nature.com/articles/s41598-021-96932-1)
 _Scientific Reports_ (2021) <a href="papers/Evolution_of_indirect_reciprocity_under_action.pdf"><i class="fa fa-file-pdf-o"></i>
