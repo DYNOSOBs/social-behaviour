@@ -12,11 +12,11 @@ image:
 
 - Alex McAvoy, Julian Kates-Harbeck, Krishnendu Chatterjee, Christian Hilbe
 [**Evolutionary instability of selfish learning in repeated games**](https://academic.oup.com/pnasnexus/article/1/4/pgac141/6650683)
-_PNAS Nexus (2022) <a href="papers/McAvoy et al (PNAS Nexus 2022) Evolutionary instability of selfish learning in repeated games"><i class="fa fa-file-pdf-o"></i>
+_PNAS Nexus_ (2022) <a href="papers/McAvoy_PNASNexus_2022"><i class="fa fa-file-pdf-o"></i>
 
 - Laura Schmid, Christian Hilbe, Krishnendu Chatterjee & Martin A. Nowak
 [**Direct reciprocity between individuals that use different strategy spaces**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010149)
-_PLoS Computational Biology (2022) <a href="papers/Schmid et al (PLoS CB 2022) Direct reciprocity between individuals that use different strategy spaces"><i class="fa fa-file-pdf-o"></i>
+_PLoS Computational Biology_ (2022) <a href="papers/Schmid_PLoSCB_2022"><i class="fa fa-file-pdf-o"></i>
 
 - Marta C. Couto, Stefano Giaimo & Christian Hilbe 
 [**Introspection dynamics: a simple model of counterfactual learning in asymmetric games**](https://iopscience.iop.org/article/10.1088/1367-2630/ac6f76)
@@ -24,15 +24,15 @@ _New Journal of Physics_ (2022) <a href="papers/Introspection_NJP_2022.pdf"><i c
 
 - Peter S. Park, Martin A. Nowak & Christian Hilbe
 [**Cooperation in alternating interactions with memory constraints**](https://www.nature.com/articles/s41467-022-28336-2)
-_Nature Communications_(2022) <a href="papers/Park et al (NComms 2022) Cooperation in alternating interactions with memory constraints"><i class="fa fa-file-pdf-o"></i>
-
-- Laura Schmid, Pouya Shati, Christian Hilbe & Krishnendu Chatterjee 
-[**The evolution of indirect reciprocity under action and assessment generosity**](https://www.nature.com/articles/s41598-021-96932-1)
-_Scientific Reports_ (2021) <a href="papers/Evolution_of_indirect_reciprocity_under_action.pdf"><i class="fa fa-file-pdf-o"></i>
+_Nature Communications_ (2022) <a href="papers/Park_NComms_2022"><i class="fa fa-file-pdf-o"></i>
 
 - Charlotte S. L. Rossetti, Christian Hilbe & Oliver P. Hauser.
 [**(Mis)perceiving cooperativeness**](https://www.sciencedirect.com/science/article/pii/S2352250X21000920)
 _Current Opinion in Psychology_ (2022) <a href="papers/Misperceiving_Cooperativeness.pdf"><i class="fa fa-file-pdf-o"></i>
+
+- Laura Schmid, Pouya Shati, Christian Hilbe & Krishnendu Chatterjee 
+[**The evolution of indirect reciprocity under action and assessment generosity**](https://www.nature.com/articles/s41598-021-96932-1)
+_Scientific Reports_ (2021) <a href="papers/Evolution_of_indirect_reciprocity_under_action.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Nikoleta E. Glynatsi & Vincent A. Knight.
 [**Game Theory and Python: An educational tutorial to game theory and repeated games using Python**](https://jose.theoj.org/papers/10.21105/jose.00078)
