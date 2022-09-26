@@ -16,7 +16,7 @@ _PNAS Nexus_ (2022) <a href="papers/McAvoy_PNASNexus_2022.pdf"><i class="fa fa-f
 
 - Laura Schmid, Christian Hilbe, Krishnendu Chatterjee & Martin A. Nowak
 [**Direct reciprocity between individuals that use different strategy spaces**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010149)
-_PLoS Computational Biology_ (2022) <a href="papers/Schmid_PLoSCB_2022.pdf"><i class="fa fa-file-pdf-o"></i>
+_PLoS Computational Biology_ (2022) <a href="papers/Schmid_PLosSCB_2022.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Marta C. Couto, Stefano Giaimo & Christian Hilbe 
 [**Introspection dynamics: a simple model of counterfactual learning in asymmetric games**](https://iopscience.iop.org/article/10.1088/1367-2630/ac6f76)
