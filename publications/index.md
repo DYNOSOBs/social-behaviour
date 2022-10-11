@@ -9,6 +9,9 @@ image:
 
 <h5>Journal articles</h5>
 
+- Saptarshi Pal, Christian Hilbe
+[**Reputation effects drive the joint evolution of cooperation and social rewarding**](https://www.nature.com/articles/s41467-022-33551-y)
+_Nature Communications_ (2022) <a href="papers/Pal_Rewards_NComms.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Alex McAvoy, Julian Kates-Harbeck, Krishnendu Chatterjee, Christian Hilbe
 [**Evolutionary instability of selfish learning in repeated games**](https://academic.oup.com/pnasnexus/article/1/4/pgac141/6650683)
