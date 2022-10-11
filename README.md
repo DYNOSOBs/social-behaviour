@@ -9,6 +9,7 @@ A list of HowTo(s) is available. More specifically:
 
 - [Install and compile the website](HowTos/Installation.md)
 - [Add People](HowTos/AddPeople.md)
+- [Update website](HowTos/Update.md)
 
 
 <!-- ## How to add posts
