@@ -10,6 +10,11 @@ _asset_bundler_cache
 vendor/
 .bundle/config
 
+# Jekyll
+
+Gemfile
+Gemfile.lock
+
 # System files
 .idea/
 .vscode/
