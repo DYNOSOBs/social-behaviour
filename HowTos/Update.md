@@ -3,7 +3,7 @@
 Once new changes have been merged into the `master` branch we need to update the
 website.
 
-The website contains the script `update.py`. Run the script with the following
+The repository contains a script called `update.py`. Run the script with the following
 command:
 
 ```shell
