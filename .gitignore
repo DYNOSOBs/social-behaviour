@@ -12,7 +12,6 @@ vendor/
 
 # Jekyll
 
-Gemfile
 Gemfile.lock
 
 # System files
