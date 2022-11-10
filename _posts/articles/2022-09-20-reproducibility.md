@@ -77,7 +77,7 @@ we have put together a flow chart with commands that we find useful
 (please let us know if we can improve or if we forgot something):
 
 
-<img src="../../images/git_flowchart.pdf" class="center" style="width:1000px">
+<img src="../../images/git_flowchart.001.jpeg" class="center" style="width:1000px">
 
 <center> ("right click -> open image in new tab" to see the details) </center>
 
