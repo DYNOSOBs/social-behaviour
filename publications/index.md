@@ -9,6 +9,10 @@ image:
 
 <h5>Journal articles</h5>
 
+- Juan Li, Xiaowei Zhao, Bing Li, Charlotte S. L. Rossetti, Christian Hilbe, Haoxiang Xia
+[**Evolution of cooperation through cumulative reciprocity**](https://www.nature.com/articles/s43588-022-00334-w)
+_Nature Computational Science_ (2022) <a href="papers/CURE_ncs_2022.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Saptarshi Pal, Christian Hilbe
 [**Reputation effects drive the joint evolution of cooperation and social rewarding**](https://www.nature.com/articles/s41467-022-33551-y)
 _Nature Communications_ (2022) <a href="papers/Pal_Rewards_NComms.pdf"><i class="fa fa-file-pdf-o"></i>
