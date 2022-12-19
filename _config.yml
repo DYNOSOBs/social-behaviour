@@ -23,6 +23,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+imagesurl: "/feed-imgs/"
+thumbsurl: "/feed/"
 
 # Site owner
 owner:
