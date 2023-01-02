@@ -16,15 +16,4 @@ experiments.
 
 <h5>Feed</h5>
 
-<!-- {% assign filenames = "new-group-img.jpg,summer-trip.jpeg,xmas-brunch.jpg,xmas-walk.jpg" | split: "," %}
-<div class ="image-gallery">
-{% for name in filenames %}
-    <div class="box">
-    <a href="{{ site.imagesurl }}{{ name }}">
-      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
-     </a>
-    </div>
- {% endfor %}
-</div> -->
-
-{% include image-gallery.html folder="feed" %}
+{% include image-gallery.html folder="feed-imgs" %}
