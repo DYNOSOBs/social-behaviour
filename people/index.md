@@ -18,6 +18,7 @@ image:
 <div id="alumni">
 <h5>Alumni</h5>
 <ul>
+  <li> <b> Moshe Hoffman </b> (Visiting Researcher). April 2021 - October 2022</li>
   <li> <b> Logan Cartau </b> (Intern). Coevolution of reciprocity and network topology. 2021</li>
 </ul>
 </div>

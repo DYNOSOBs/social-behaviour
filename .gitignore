@@ -7,6 +7,12 @@ node_modules
 _asset_bundler_cache
 .sass-cache
 .jekyll-metadata
+vendor/
+.bundle/config
+
+# Jekyll
+
+Gemfile.lock
 
 # System files
 .idea/

@@ -23,6 +23,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+imagesurl: "/feed-imgs/"
 
 # Site owner
 owner:
@@ -62,3 +63,4 @@ exclude:
   - package.json
   - spec
   - tmp
+  - vendor
