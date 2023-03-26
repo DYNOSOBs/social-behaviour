@@ -9,6 +9,9 @@ image:
 
 <h5>Journal articles</h5>
 
+- Arne Traulsen, Nikoleta E. Glynatsi [**The future of theoretical evolutionary game theory**](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0508)
+_Philosophical Transactions of the Royal Society B_ (2023) <a href="papers/future_of_egt_Glynatsi_2023.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Juan Li, Xiaowei Zhao, Bing Li, Charlotte S. L. Rossetti, Christian Hilbe, Haoxiang Xia
 [**Evolution of cooperation through cumulative reciprocity**](https://www.nature.com/articles/s43588-022-00334-w)
 _Nature Computational Science_ (2022) <a href="papers/CURE_ncs_2022.pdf"><i class="fa fa-file-pdf-o"></i>
