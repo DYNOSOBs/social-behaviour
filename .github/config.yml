@@ -12,4 +12,11 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Thank you for updating the website!
+            Thank you for updating the website! :tada:
+
+            Did you happend to add your new publication?
+            
+            If yes do not forget to,
+
+            - Let our librarian :books: know (form:)
+            - Contact, 
