@@ -12,4 +12,6 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Thank you for updating the website!
+            Thank you for updating the website! :tada:
+
+            In case you added a new publication, please do not forget to,
