@@ -3,8 +3,9 @@ import webbrowser
 
 
 def compile_website():
-     command = "bundle exec jekyll build"
-     subprocess.run(command, shell=True)
+    command = "bundle exec jekyll build"
+    subprocess.run(command, shell=True)
+
 
 def update_website():
     command = "scp -r _site/* glynatsi@web.evolbio.mpg.de:/srv/www/htdocs/social-behaviour/."
