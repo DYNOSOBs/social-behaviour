@@ -13,7 +13,7 @@ ads: false
 
 <p class="big" style="font-size:16px;">
 Max Planck Institute for Evolutionary Biology <br>
-Department of Evolutionary Theory <br>
+Research Group Dynamics of Social Behavior <br>
 August-Thienemann-Str. 2 <br>
 24306 Plön <br>
 Germany
