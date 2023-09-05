@@ -1,0 +1,22 @@
+---
+layout: people
+title: Dr Ben Grodeck
+excerpt: Postdoc
+categories: current
+tags:
+image:
+  path: *image
+  teaser: Grodeck.jpg
+---
+
+Hello, My name is Ben Grodeck and I am currently a postdoctoral researcher at The Max Planck Institute for Evolutionary Biology (Dynamics of Social Behaviour Group) & The University of Exeter. 
+I completed my PhD in Economics at Monash University under the supervision of Erte Xiao, Lata Gangadharan, and Philip Grossman.
+My research interests lie in Experimental and Behavioural Economics, with a focus on the motivations of altruistic behaviour, cooperation, and how morality impacts decision making and market efficiency. I also have an interst in Experimental Philosophy. 
+
+<div id="socialMedia" style="text-align:center">
+    <a href="<grodeck@evolbio.mpg.de>" title="Email"><i style="font-size:24px" class="fa fa-envelope"></i></a>
+    <a href="<https://twitter.com/benleo_econ>" title="Twitter"><i style="font-size:24px" class="fa fa-twitter"></i></a>
+    <a href="<https://sites.google.com/view/bengrodeck/e>" title="Webpage"><i style="font-size:24px" class="fa fa-home"></i></a>
+</div>
+
+<img src="../../images/<>" class="center">
