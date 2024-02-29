@@ -14,6 +14,4 @@ translate social interactions into strategic games. These games can then be
 explored mathematically, with computer simulations, and with behavioral
 experiments.
 
-<h5>Feed</h5>
-
 {% include image-gallery.html folder="feed-imgs" %}
