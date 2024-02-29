@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title:
 image:
   feature:
@@ -8,6 +8,10 @@ image:
 ---
 
 <h5>Journal articles</h5>
+
+- Xinmiao An, Yali Dong, Xiaomin Wang & Boyu Zhang.
+[**Cooperation and Coordination in Threshold Public Goods Games with Asymmetric Players**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
+_Games_ (2023)<a href="papers/An_Games_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Yohsuke Murase & Christian Hilbe.
 [**Indirect reciprocity with stochastic and dual reputation updates**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
