@@ -9,6 +9,10 @@ image:
 
 <h5>Journal articles</h5>
 
+- Ben Grodeck, Franziska Tausch, Chengsi Wang & Erte Xiao.
+[**To insure or not to insure? Promoting trust and cooperation with insurance advice in markets**](https://www.sciencedirect.com/science/article/pii/S0014292123002143) 
+_European Economic Review_ (2023) <a href="papers/Grodeck_EER_2023.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Xinmiao An, Yali Dong, Xiaomin Wang & Boyu Zhang.
 [**Cooperation and Coordination in Threshold Public Goods Games with Asymmetric Players**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
 _Games_ (2023)<a href="papers/An_Games_2024.pdf"><i class="fa fa-file-pdf-o"></i>
