@@ -17,6 +17,10 @@ _European Economic Review_ (2023) <a href="papers/Grodeck_EER_2023.pdf"><i class
 [**Cooperation and Coordination in Threshold Public Goods Games with Asymmetric Players**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
 _Games_ (2023)<a href="papers/An_Games_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
+- Marta Couto & Saptarshi Pal.
+[**Introspection Dynamics in Asymmetric Multiplayer Games**](https://link.springer.com/article/10.1007/s13235-023-00525-8)
+_Dynamic Games and Applications_ (2023) <a href="papers/Couto_Pal_DGAA_2023.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Yohsuke Murase & Christian Hilbe.
 [**Indirect reciprocity with stochastic and dual reputation updates**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
 _PLoS Computational Biology_ (2023) <a href="papers/Murase_PLoSCB_2023b.pdf"><i class="fa fa-file-pdf-o"></i>
