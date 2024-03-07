@@ -9,6 +9,15 @@ image:
 
 <h5>Journal articles</h5>
 
+<!-- <h6>2024</h6> -->
+
+<!-- - Valentin Hübner, Manuel Staab, Christian Hilbe, Krishnendu Chatterjee & Maria Kleshnina.
+[**Efficiency and resilience of cooperation in asymmetric social dilemmas**](https://www.pnas.org/doi/abs/10.1073/pnas.2315558121) 
+_Proceedings of the National Academy of Sciences_ (2024) <a href="papers/Kleshnina_PNAS_2024.pdf"><i class="fa fa-file-pdf-o"></i> -->
+
+
+<h6>2023</h6>
+
 - Ben Grodeck, Franziska Tausch, Chengsi Wang & Erte Xiao.
 [**To insure or not to insure? Promoting trust and cooperation with insurance advice in markets**](https://www.sciencedirect.com/science/article/pii/S0014292123002143) 
 _European Economic Review_ (2023) <a href="papers/Grodeck_EER_2023.pdf"><i class="fa fa-file-pdf-o"></i>
@@ -17,9 +26,17 @@ _European Economic Review_ (2023) <a href="papers/Grodeck_EER_2023.pdf"><i class
 [**Cooperation and Coordination in Threshold Public Goods Games with Asymmetric Players**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
 _Games_ (2023)<a href="papers/An_Games_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
+- Kristian K. Ullrich & Nikoleta E. Glytnasi.
+[**oggmap: a Python package to extract gene ages per orthogroup and link them with single-cell RNA data**](https://academic.oup.com/bioinformatics/article/39/11/btad657/7413170)
+_Bioinformatics_ (2023) <a href="papers/Glynatsi_Bioinformatics_2023.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Marta Couto & Saptarshi Pal.
 [**Introspection Dynamics in Asymmetric Multiplayer Games**](https://link.springer.com/article/10.1007/s13235-023-00525-8)
 _Dynamic Games and Applications_ (2023) <a href="papers/Couto_Pal_DGAA_2023.pdf"><i class="fa fa-file-pdf-o"></i>
+
+- Charlotte S. L. Rossetti & Christian Hilbe.
+[**Direct reciprocity among humans**](https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.13407)
+_Ethology_ (2023) <a href="papers/Rossetti_Ethology_2023.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Yohsuke Murase & Christian Hilbe.
 [**Indirect reciprocity with stochastic and dual reputation updates**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011271)
@@ -53,6 +70,8 @@ _Philosophical Transactions of the Royal Society B_ (2023) <a href="papers/Wang_
 [**The future of theoretical evolutionary game theory**](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0508)
 _Philosophical Transactions of the Royal Society B_ (2023) <a href="papers/future_of_egt_Glynatsi_2023.pdf"><i class="fa fa-file-pdf-o"></i>
 
+<h6>2022</h6>
+
 - Yohsuke Murase, Christian Hilbe & Seung Ki Baek.
 [**Evolution of direct reciprocity in group-structured populations**](https://www.nature.com/articles/s41598-022-23467-4)
 _Scientific Reports_ (2022) <a href="papers/Murase_SciRep_2022.pdf"><i class="fa fa-file-pdf-o"></i>
@@ -85,6 +104,8 @@ _Nature Communications_ (2022) <a href="papers/Park_NComms_2022.pdf"><i class="f
 [**(Mis)perceiving cooperativeness**](https://www.sciencedirect.com/science/article/pii/S2352250X21000920)
 _Current Opinion in Psychology_ (2022) <a href="papers/Misperceiving_Cooperativeness.pdf"><i class="fa fa-file-pdf-o"></i>
 
+<h6>2021</h6>
+
 - Laura Schmid, Pouya Shati, Christian Hilbe & Krishnendu Chatterjee.
 [**The evolution of indirect reciprocity under action and assessment generosity**](https://www.nature.com/articles/s41598-021-96932-1)
 _Scientific Reports_ (2021) <a href="papers/Evolution_of_indirect_reciprocity_under_action.pdf"><i class="fa fa-file-pdf-o"></i>
@@ -100,6 +121,8 @@ _Nature Human Behaviour_ (2021) <a href="papers/Schmid_Nature_Human_Behaviour.pd
 - Nikoleta E. Glynatsi & Vincent A. Knight.
 [**A bibliometric study of research topics, collaboration and centrality in the Iterated Prisoner’s Dilemma**](https://www.nature.com/articles/s41599-021-00718-9)
 _Humanities and Social Sciences Communications_ (2021) <a href="papers/bibliometric_study.pdf"><i class="fa fa-file-pdf-o"></i>
+
+<h6>2020</h6>
 
 - Nikoleta E. Glynatsi & Vincent A. Knight.
 [**Using a theory of mind to find best responses to memory-one strategies**](https://www.nature.com/articles/s41598-020-74181-y)
