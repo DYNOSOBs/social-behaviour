@@ -11,6 +11,8 @@ image:
 
 
 <h6>2024</h6>
+- Nikoleta E Glynatsi, Alex McAvoy & Christian Hilbe.
+[**Evolution of reciprocity with limited payoff memory.**](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.2493) _Proceedings of Royal Society B_ (2024) <a href="papers/Glynatsi_PROCB_2024.pdf"><i class="fa fa-file-pdf-o"></i> 
 
 - Valentin Hübner, Manuel Staab, Christian Hilbe, Krishnendu Chatterjee & Maria Kleshnina.
 [**Efficiency and resilience of cooperation in asymmetric social dilemmas.**](https://www.pnas.org/doi/abs/10.1073/pnas.2315558121) 
