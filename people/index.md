@@ -18,14 +18,14 @@ image:
 
 <div id="alumni">
 <h5>Alumni</h5>
-<ul>
-<li> <b> Charlotte Rossetti </b> (PhD Student). September 2020 - June 2024</li>
-<li> <b> Xiaomin Wang  </b> (visiting PhD student). March 2023 - May 2024 </li>
-<li> <b> Marta Couto </b> (PhD Student). September 2020 - March 2024</li>
-<li> <b> Saptarshi Pal </b> (PhD Student). September 2020 - February 2024</li>
-<li> <b> Ben Grodeck </b> (Postdoc). October 2023 - March 2024</li>
-<li> <b> Vivien Kleinow </b> (MSc Student). October 2022 - November 2023</li>
-<li> <b> Moshe Hoffman </b> (Visiting Researcher). April 2021 - October 2022</li>
-<li> <b> Logan Cartau </b> (Intern). Coevolution of reciprocity and network topology. 2021</li>
-</ul>
 </div>
+
+|                  |                          | *Last known coordinates*          |
+| Charlotte Rossetti | PhD Student            | Postdoc at University of Zurich, Switzerland|
+| Xiaomin Wang     | Visiting PhD Student     | PhD student at Beijing Normal University, China |
+| Marta Couto      | PhD Student              | Postdoc at University of Amsterdam, Netherlands|
+| Saptarshi Pal    | PhD Student              | Postdoc at Harvard University, USA|
+| Ben Grodeck      | Postdoc                  | Postdoc at  University of Exeter, UK|
+| Vivien Kleinow   | MSc Student              | PhD student at  Hamburg University of Technology, Germany|
+| Moshe Hoffman    | Visiting Researcher      | Lecturer at Boston College & Harvard University, and an independent  scholar , USA |
+| Logan Cartau     | Intern                   | _unknown_ |
