@@ -12,7 +12,19 @@ image:
 
 <h6>2024</h6>
 
-- Vincent Knight, Marc Harper, Nikoleta E Glynatsi, Jonathan Gillard
+- Yohsuke Murase & Christian Hilbe.
+[**Indirect reciprocity under opinion synchronization.**]
+**Proceedings of the National Academy of Sciences** (https://www.pnas.org/doi/10.1073/pnas.2418364121)
+_Proceedings of the National Academy of Sciences_ (2024) 
+<a href="papers/Murase_PNAS_2024b.pdf"><i class="fa fa-file-pdf-o"></i>
+
+- Yohsuke Murase & Christian Hilbe.
+[**Computational evolution of social norms in well-mixed and group-structured populations.**]
+**Proceedings of the National Academy of Sciences** (https://www.pnas.org/doi/10.1073/pnas.2406885121)
+_Proceedings of the National Academy of Sciences_ (2024) 
+<a href="papers/Murase_PNAS_2024a.pdf"><i class="fa fa-file-pdf-o"></i>
+
+- Vincent Knight, Marc Harper, Nikoleta E Glynatsi, Jonathan Gillard.
 [**Recognising and evaluating the effectiveness of extortion in the Iterated Prisoner’s Dilemma.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304641) _PloS one_ (2024) <a href="papers/Glynatsi_PLOS_ONE_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Nikoleta E Glynatsi, Alex McAvoy & Christian Hilbe.
