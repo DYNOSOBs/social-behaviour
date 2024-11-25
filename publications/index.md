@@ -13,14 +13,14 @@ image:
 <h6>2024</h6>
 
 - Yohsuke Murase & Christian Hilbe.
-[**Indirect reciprocity under opinion synchronization.**]
-**Proceedings of the National Academy of Sciences** (https://www.pnas.org/doi/10.1073/pnas.2418364121)
+[**Indirect reciprocity under opinion synchronization.**](https://www.pnas.org/doi/10.1073/pnas.2418364121)
+**Proceedings of the National Academy of Sciences** 
 _Proceedings of the National Academy of Sciences_ (2024) 
 <a href="papers/Murase_PNAS_2024b.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Yohsuke Murase & Christian Hilbe.
-[**Computational evolution of social norms in well-mixed and group-structured populations.**]
-**Proceedings of the National Academy of Sciences** (https://www.pnas.org/doi/10.1073/pnas.2406885121)
+[**Computational evolution of social norms in well-mixed and group-structured populations.**](https://www.pnas.org/doi/10.1073/pnas.2406885121)
+**Proceedings of the National Academy of Sciences** 
 _Proceedings of the National Academy of Sciences_ (2024) 
 <a href="papers/Murase_PNAS_2024a.pdf"><i class="fa fa-file-pdf-o"></i>
 
