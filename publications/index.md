@@ -12,20 +12,29 @@ image:
 
 <h6>2024</h6>
 
+- Nikoleta E Glynatsi, Vincent A Knight & Marc Harper.
+[**Properties of winning Iterated Prisoner's Dilemma strategies.**](https://doi.org/10.1371/journal.pcbi.1012644)
+_PLOS Computational Biology_ (2024) 
+<a href="papers/Glynatsi2024PLOSCompBio.pdf"><i class="fa fa-file-pdf-o"></i>
+
+- Nikoleta E Glynatsi, Ethan Akin, Martin A Nowak & Christian Hilbe.
+[**Conditional cooperation with longer memory.**](https://doi.org/10.1073/pnas.2420125121)
+_Proceedings of the National Academy of Sciences_ (2024) 
+<a href="papers/Glynatsi2024PNAS.pdf"><i class="fa fa-file-pdf-o"></i>
+
+
 - Yohsuke Murase & Christian Hilbe.
-[**Indirect reciprocity under opinion synchronization.**](https://www.pnas.org/doi/10.1073/pnas.2418364121)
-**Proceedings of the National Academy of Sciences** 
+[**Indirect reciprocity under opinion synchronization.**](https://www.pnas.org/doi/10.1073/pnas.2418364121)ß
 _Proceedings of the National Academy of Sciences_ (2024) 
 <a href="papers/Murase_PNAS_2024b.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Yohsuke Murase & Christian Hilbe.
 [**Computational evolution of social norms in well-mixed and group-structured populations.**](https://www.pnas.org/doi/10.1073/pnas.2406885121)
-**Proceedings of the National Academy of Sciences** 
 _Proceedings of the National Academy of Sciences_ (2024) 
 <a href="papers/Murase_PNAS_2024a.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Vincent Knight, Marc Harper, Nikoleta E Glynatsi, Jonathan Gillard.
-[**Recognising and evaluating the effectiveness of extortion in the Iterated Prisoner’s Dilemma.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304641) _PloS one_ (2024) <a href="papers/Glynatsi_PLOS_ONE_2024.pdf"><i class="fa fa-file-pdf-o"></i>
+[**Recognising and evaluating the effectiveness of extortion in the Iterated Prisoner's Dilemma.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304641) _PloS one_ (2024) <a href="papers/Glynatsi_PLOS_ONE_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Nikoleta E Glynatsi, Alex McAvoy & Christian Hilbe.
 [**Evolution of reciprocity with limited payoff memory.**](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.2493) _Proceedings of Royal Society B_ (2024) <a href="papers/Glynatsi_PROCB_2024.pdf"><i class="fa fa-file-pdf-o"></i>
