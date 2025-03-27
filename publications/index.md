@@ -9,6 +9,12 @@ image:
 
 <h5>Journal articles</h5>
 
+<h6>2025</h6>
+
+- Charlotte S. L. Rossetti, Christian Hilbe & Oliver P. Hauser.
+[**Dynamics of Cooperation in Concurrent Games.**](https://www.nature.com/articles/s41467-025-56083-7)
+_Nature Communications_ (2025) <a href="papers/Rossetti_NComms_2025.pdf"><i class="fa fa-file-pdf-o"></i>
+
 
 <h6>2024</h6>
 
